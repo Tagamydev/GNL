@@ -6,11 +6,11 @@
 /*   By: samusanc <samusanc@student.42madrid>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/04/20 17:44:16 by samusanc          #+#    #+#             */
-/*   Updated: 2023/05/26 19:24:16 by samusanc         ###   ########.fr       */
+/*   Updated: 2023/05/26 19:26:53 by samusanc         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#ifndef GET_NEXT_LINE_H
-# define GET_NEXT_LINE_H
+#ifndef GET_NEXT_LINE_BONUS_H
+# define GET_NEXT_LINE_BONUS_H
 # if !defined (BUFFER_SIZE)
 #  define BUFFER_SIZE 4
 # endif
